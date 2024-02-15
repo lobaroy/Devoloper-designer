@@ -1,0 +1,15 @@
+.designer-box {
+  display: flex;
+  align-items: start;
+  padding-top: 100px;
+}
+
+.designer-list {
+  font-family: Arial;
+  font-size: 58px;
+  font-weight: 400;
+  line-height: 64px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2468FF;
+}/*# sourceMappingURL=-designer.css.map */
